@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geolocalizacion y Google Maps</string>
+    <string name="ubicacion">Ubicacion</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
